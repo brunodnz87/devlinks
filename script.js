@@ -1,4 +1,4 @@
-function toggleMode(){
+function toggleMode() {
   const html = document.documentElement
   html.classList.toggle("light")
 
@@ -13,10 +13,6 @@ function toggleMode(){
     img.setAttribute("src", "./assets/avatar.png")
   }
 }
-
-//desafio mudar o alt da imagem
-
-
 
 
 
