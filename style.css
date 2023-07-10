@@ -178,7 +178,7 @@ footer a {
   text-decoration: none;
 }
 
-/* mudar cor do coração quando mudar o modo de cor da tela */
+/* mudar cor do coração quando passa o mouse sobre o coração */
 
 .heart {
   color: red;
